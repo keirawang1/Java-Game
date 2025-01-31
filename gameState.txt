@@ -1,0 +1,19 @@
+Bird: 660, 270
+Score: 1820
+HighScore: 1820
+TickCounter: 3534
+Playing: false
+GameOver: true
+Coins: 7
+244, 242, 
+485, 149, 
+1035, 315, 
+684, 158, 
+1005, 22, 
+867, 166, 
+988, 21, 
+Obstacles: 4
+56, -428, 282, 800, 1, java.awt.Color[r=157,g=184,b=144], 135
+56, 472, 282, 800, 1, java.awt.Color[r=157,g=184,b=144], 135
+541, -582, 434, 800, 1, java.awt.Color[r=126,g=157,b=159], 135
+541, 309, 434, 800, 1, java.awt.Color[r=126,g=157,b=159], 135
